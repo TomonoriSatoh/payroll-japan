@@ -1,0 +1,147 @@
+# 平成28年度の協会けんぽの保険料率
+# 3月分（4月納付分）〜改定
+# 情報提供元:
+# - http://www.kyoukaikenpo.or.jp/home/g3/cat330/sb3130/h28/280203
+# - http://www.kyoukaikenpo.or.jp/g3/cat330/hokenryouritunohennsenn
+
+hokkaido:
+  label: '北海道'
+  rate: 10.15
+aomori:
+  label: '青森県'
+  rate: 9.97
+iwate:
+  label: '岩手県'
+  rate: 9.93
+miyagi:
+  label: '宮城県'
+  rate: 9.96
+akita:
+  label: '秋田県'
+  rate: 10.11
+yamagata:
+  label: '山形県'
+  rate: 10.00
+fukushima:
+  label: '福島県'
+  rate: 9.90
+ibaragi:
+  label: '茨城県'
+  rate: 9.92
+tochigi:
+  label: '栃木県'
+  rate: 9.94
+gunma:
+  label: '群馬県'
+  rate: 9.94
+saitama:
+  label: '埼玉県'
+  rate: 9.91
+chiba:
+  label: '千葉県'
+  rate: 9.93
+tokyo:
+  label: '東京都'
+  rate: 9.96
+kanagawa:
+  label: '神奈川県'
+  rate: 9.97
+nigata:
+  label: '新潟県'
+  rate: 9.79
+toyama:
+  label: '富山県'
+  rate: 9.83
+ishikawa:
+  label: '石川県'
+  rate: 9.99
+fukui:
+  label: '福井県'
+  rate: 9.93
+yamanashi:
+  label: '山梨県'
+  rate: 10.00
+nagano:
+  label: '長野県'
+  rate: 9.88
+gifu:
+  label: '岐阜県'
+  rate: 9.93
+shizuoka:
+  label: '静岡県'
+  rate: 9.89
+aichi:
+  label: '愛知県'
+  rate: 9.97
+mie:
+  label: '三重県'
+  rate: 9.93
+shiga:
+  label: '滋賀県'
+  rate: 9.99
+kyoto:
+  label: '京都府'
+  rate: 10.00
+osaka:
+  label: '大阪府'
+  rate: 10.07
+hyogo:
+  label: '兵庫県'
+  rate: 10.07
+nara:
+  label: '奈良県'
+  rate: 9.97
+wakayama:
+  label: '和歌山県'
+  rate: 10.00
+tottori:
+  label: '鳥取県'
+  rate: 9.96
+shimane:
+  label: '島根県'
+  rate: 10.09
+okayama:
+  label: '岡山県'
+  rate: 10.10
+hiroshima:
+  label: '広島県'
+  rate: 10.04
+yamaguchi:
+  label: '山口県'
+  rate: 10.13
+tokushima:
+  label: '徳島県'
+  rate: 10.18
+kagawa:
+  label: '香川県'
+  rate: 10.15
+ehime:
+  label: '愛媛県'
+  rate: 10.03
+kochi:
+  label: '高知県'
+  rate: 10.10
+fukuoka:
+  label: '福岡県'
+  rate: 10.10
+saga:
+  label: '佐賀県'
+  rate: 10.33
+nagasaki:
+  label: '長崎県'
+  rate: 10.12
+kumamoto:
+  label: '熊本県'
+  rate: 10.10
+oita:
+  label: '大分県'
+  rate: 10.04
+miyazaki:
+  label: '宮崎県'
+  rate: 9.95
+kagoshima:
+  label: '鹿児島県'
+  rate: 10.06
+okinawa:
+  label: '沖縄県'
+  rate: 9.87
