@@ -1,0 +1,13 @@
+# 健康保険・標準報酬月額
+# 情報提供元:
+# - http://www.kyoukaikenpo.or.jp/~/media/Files/shared/hokenryouritu/h28/ippan2/280201hokkaidou.pdf
+# - http://www.mhlw.go.jp/shingi/2007/03/dl/s0306-10e-03.pdf
+
+等級: 1
+  標準月額: 58000
+  報酬月額自: 0
+  報酬月額至: 62999
+等級: 2
+  標準月額: 68000
+  報酬月額自: 63000
+  報酬月額至: 73000
