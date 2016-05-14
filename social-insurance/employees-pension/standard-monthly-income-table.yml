@@ -2,14 +2,13 @@
 # 情報提供元:
 # - https://www.nenkin.go.jp/service/kounen/hokenryo-gaku/gakuhyo/20150731.files/0000029322XDcscLTTM3.pdf
 # - https://www.nenkin.go.jp/service/kounen/hokenryo-gaku/gakuhyo/20150731.html
-
-等級: 1
-  標準月額: 98000
-  報酬月額自: 0
-  報酬月額至: 100999
-  標準報酬日額: 3270
-等級: 2
-  標準月額: 104000
-  報酬月額自: 101000
-  報酬月額至: 106999
-  標準報酬日額: 3470
+1: #等級
+  smi: 98000 #standard monthly income 標準報酬月額
+  smi_begin: 0 #standard monthly income begin 標準報酬月額自
+  smi_end: 100999 #standard monthly income end 標準報酬月額至
+  sdi: 3270 #standard daily income 標準報酬日額
+2:
+  smi: 104000
+  smi_begin: 101000
+  smi_end: 106999
+  sdi: 3470
